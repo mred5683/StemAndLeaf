@@ -1,0 +1,2 @@
+C:\Programming\C# Programs\Personal\StemAndLeaf\StemAndLeaf\bin\Debug\StemAndLeaf.exe.config
+C:\Programming\Git_Stuff\StemAndLeaf\StemAndLeaf\bin\Debug\StemAndLeaf.exe.config
